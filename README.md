@@ -2,7 +2,7 @@
 
 Perkenalkan saya Akbar</br>
 Saya Adalah Seorang Masiswa [Teknik Informatika](https://informatika.unimal.ac.id/) Semester VI.</br>
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/m-akbar-husein-siregar-a7bb501b8/) ku ya😉.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/m-akbar-husein-siregar-a7bb501b8/) ku ya😉.</br>
 
 <p align="center">
 <a href="https://github.com/akbarhusein">
