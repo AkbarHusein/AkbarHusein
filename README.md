@@ -30,7 +30,7 @@
 <a href="https://codesandbox.com/akbarhusein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="akbarhusein" height="30" width="40" /></a>
 <a href="https://instagram.com/codewithhusein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithhusein" height="30" width="40" /></a>
 <a href="https://medium.com/@muhakbarhusein5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhakbarhusein5" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/van husein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="van husein" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/muhakbarhusein5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="van husein" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akbarhusein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akbarhusein" height="30" width="40" /></a>
 </p>
 
