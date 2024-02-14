@@ -1,5 +1,6 @@
 <h1 align="center">Hi there👋, I'm Van Husein</h1>
 <h3 align="center">Technology enthusiasts especially nowadays are web development</h3>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yafqr2cgxfk56smmwxb6wi64iq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31yafqr2cgxfk56smmwxb6wi64iq&redirect=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarhusein&label=Profile%20views&color=0e75b6&style=flat" alt="akbarhusein" /> </p>
 
