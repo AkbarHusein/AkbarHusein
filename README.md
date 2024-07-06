@@ -16,8 +16,6 @@
 
 - 🔭 I’m currently working on **web application**
 
-- 🌱 I’m currently learning **Javascript, Php, Tailwind, Python, Go, MySql, Prisma, Machine Learning, React.js, Next.js, IoT, Algorithm, Laravel**
-
 - 👨‍💻 All of my projects are available at [https://akbarhusein.github.io/](https://akbarhusein.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@muhakbarhusein5](https://medium.com/@muhakbarhusein5)
