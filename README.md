@@ -1,12 +1,3 @@
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yafqr2cgxfk56smmwxb6wi64iq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31yafqr2cgxfk56smmwxb6wi64iq&redirect=true)
-
-</div>
-
-
-
 <h1 align="center">Hi there👋, I'm Van Husein</h1>
 <h3 align="center">Technology enthusiasts especially nowadays are web development</h3>
 
@@ -32,13 +23,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/akbarhusein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akbarhusein" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/akbarhusein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akbarhusein" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/huseinsrg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huseinsrg" height="30" width="40" /></a>
-<a href="https://codesandbox.com/akbarhusein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="akbarhusein" height="30" width="40" /></a>
+<!-- <a href="https://codesandbox.com/akbarhusein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="akbarhusein" height="30" width="40" /></a> -->
 <a href="https://instagram.com/codewithhusein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithhusein" height="30" width="40" /></a>
 <a href="https://medium.com/@muhakbarhusein5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhakbarhusein5" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/muhakbarhusein5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="van husein" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akbarhusein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akbarhusein" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/muhakbarhusein5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="van husein" height="30" width="40" /></a> -->
+<!-- <a href="https://www.leetcode.com/akbarhusein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akbarhusein" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
